@@ -85,7 +85,7 @@ Sou uma pessoa organizada, que trabalha em equipe, comunicativa e focada em reso
 <br/>
 <br/>
 
-<p>
+<div styles="display:flex" >
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -100,7 +100,7 @@ Sou uma pessoa organizada, que trabalha em equipe, comunicativa e focada em reso
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGNAR303&theme=merko&layout=donut&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+</div>
 
 
 
